@@ -3,10 +3,10 @@ title: Iron - Beginners
 size: 8x5
 input:
   - material: Substance
-    rate: "18.21"
+    rate: "50"
 output:
   - material: Iron
-    rate: "18.21"
+    rate: "50"
     reliability: Stable
 draft: false
 featured: false
