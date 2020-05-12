@@ -1,6 +1,6 @@
 ---
-title: Iron
-subtitle: No Importers
+title: Iron - No Importers
+subtitle: ""
 size: 12x12
 input:
   - material: Substance
@@ -14,7 +14,9 @@ featured: false
 authors:
   - ChingChangMoney
 tags:
-  - 12x12 iron no-import
+  - 12x12
+  - iron
+  - no-import
 image:
   filename: featured.png
   focal_point: Smart
