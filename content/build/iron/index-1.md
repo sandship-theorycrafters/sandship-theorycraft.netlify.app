@@ -1,6 +1,6 @@
 ---
-title: Iron
-subtitle: Beginners
+title: Iron - Beginners
+subtitle: ""
 size: 8x5
 input:
   - material: Substance
@@ -14,7 +14,9 @@ featured: false
 authors:
   - ChingChangMoney
 tags:
-  - 8x5 iron beginner
+  - 8x5
+  - iron
+  - beginner
 image:
   filename: featured.png
   focal_point: Smart
