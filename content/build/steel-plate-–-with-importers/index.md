@@ -23,7 +23,6 @@ tags:
   - steel-plate
   - with-importers
   - steel
-  - carbon
 image:
   filename: featured.png
   focal_point: Smart
