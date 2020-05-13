@@ -17,7 +17,7 @@ tags:
   - iron-powder
   - without-importers
 image:
-  filename: iron-pow.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
