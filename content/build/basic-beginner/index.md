@@ -19,6 +19,7 @@ tags:
   - silicon
   - carbon
   - beginner
+  - raw
 image:
   filename: featured.png
   focal_point: Smart
