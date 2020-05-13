@@ -5,14 +5,19 @@ backend:
   gateway_url: "https://sandship-theorycraft.netlify.app/.netlify/git/github"
 media_folder: 'static/img/'
 public_folder: 'img'
+site_url: https://sandship-theorycraft.netlify.app
+display_url: https://sandship-theorycraft.netlify.app
 collections:
   - name: builds
     label: Builds
     label_singular: Build
     folder: 'content/build'
     path: '{{slug}}/index'
+    identifier_field: identifier
+    summary: '{{fields.input}} > {{fields.output}}'
     create: true
     fields:  # The fields each document in this collection have
+      - {label: "Identifier", name: "identifier", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -32,28 +37,12 @@ collections:
           - {label: Material, name: material, widget: string}
           - {label: Rate, name: rate, widget: string, required: true}
           - {label: Reliability, name: reliability, widget: string, required: true}
-      - label: "Draft"
-        name: "draft"
-        widget: "boolean"
-        default: false
-      - label: "Featured"
-        name: "featured"
-        widget: "boolean"
-        default: false
       - label: "Authors"
         name: "authors"
         required: false
         widget: "list"
       - label: "Tags"
         name: "tags"
-        required: false
-        widget: "list"
-      - label: "Categories"
-        name: "categories"
-        required: false
-        widget: "list"
-      - label: "Projects"
-        name: "projects"
         required: false
         widget: "list"
       - label: "Featured Image"
