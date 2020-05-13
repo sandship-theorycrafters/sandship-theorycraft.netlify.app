@@ -1,7 +1,7 @@
 ---
-identifier: Basic No Importers
-title: Basic
-subtitle: No Importers
+identifier: Raw Materials – Microfactory
+title: Raw Materials
+subtitle: Microfactory
 size: 12x12
 input:
   - material: Substance
