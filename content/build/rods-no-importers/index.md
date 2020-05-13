@@ -16,7 +16,11 @@ tags:
   - 12x12
   - iron-rod
   - copper-rod
+  - steel-rod
   - no-importers
+  - iron
+  - copper
+  - steel
 image:
   filename: featured.png
   focal_point: Smart
@@ -24,3 +28,5 @@ image:
   caption: Rods No Imports
 ---
 A rod producing build. Uses lots of grabbers and splitters. Interestingly enough, the synths weren’t split twice due to space constraints, but the grabbers helped balance this out (though not all the way)
+
+Can be used to make steel rods if synths are switched with importers.
