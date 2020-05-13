@@ -21,4 +21,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<>
+A rather complicated build for making Steel rods. Uses Importers, so some people may want to stay away. However, due to the way it was made, ot should be relatively stable with a few hiccups.
