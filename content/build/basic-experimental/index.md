@@ -1,6 +1,6 @@
 ---
-identifier: Basic Experimental
-title: Basic
+identifier: Raw Materials – Experimental
+title: Raw Materials
 subtitle: Experimental
 size: nan
 input:
