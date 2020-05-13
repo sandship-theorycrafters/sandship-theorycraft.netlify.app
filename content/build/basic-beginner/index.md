@@ -1,5 +1,5 @@
 ---
-identifier: Basic Beginner
+identifier: Raw Materials – Beginners
 title: Basic
 subtitle: Beginner
 size: 8x5
