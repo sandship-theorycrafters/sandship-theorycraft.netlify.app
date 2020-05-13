@@ -13,7 +13,6 @@ output:
 authors:
   - Tangy
 tags:
-  - nan
   - iron
   - copper
   - silicone
