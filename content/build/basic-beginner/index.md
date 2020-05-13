@@ -1,5 +1,5 @@
 ---
-identifier: Raw Materials – Beginners
+identifier: Raw Materials – Beginner Friendly
 title: Raw Materials
 subtitle: Beginner Friendly
 size: 8x5
