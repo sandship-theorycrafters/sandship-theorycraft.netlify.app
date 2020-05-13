@@ -22,7 +22,7 @@ tags:
   - 12x12
   - steel-plate
   - with-importers
-  - ""
+  - steel
 image:
   filename: featured.png
   focal_point: Smart
