@@ -5,13 +5,13 @@ subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "63.11"
+    rate: "67.72"
 output:
   - material: Rods
-    rate: "63.11"
+    rate: "67.73"
     reliability: Stable
 authors:
-  - ChingChangMoney
+  - patytseng
 tags:
   - 12x12
   - iron-rod
