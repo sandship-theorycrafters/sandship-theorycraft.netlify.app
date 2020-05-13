@@ -1,7 +1,7 @@
 ---
-identifier: Basic No Imports
+identifier: Basic No Importers
 title: Basic
-subtitle: No Imports
+subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
@@ -18,7 +18,7 @@ tags:
   - copper
   - silicon
   - carbon
-  - no-imports
+  - no-importers
 image:
   filename: featured.png
   focal_point: Smart
