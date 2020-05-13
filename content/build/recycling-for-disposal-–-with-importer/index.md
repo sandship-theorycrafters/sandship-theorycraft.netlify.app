@@ -1,6 +1,6 @@
 ---
-identifier: Recycling – With Importer
-title: "Recycling "
+identifier: Recycling for Disposal – With Importer
+title: Recycling for Disposal
 subtitle: With Importer
 size: 12x12
 input:
