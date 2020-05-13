@@ -5,13 +5,13 @@ subtitle: Level 3
 size: Lvl 3
 input:
   - material: Substance
-    rate: "3.37"
+    rate: "2.13"
 output:
   - material: Everstone
-    rate: "1"
+    rate: "1.5"
     reliability: Stable
 authors:
-  - Leptons
+  - Spatzl
 tags:
   - everstone
   - underwell
@@ -21,4 +21,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Uses 2 resonators, producing 1 everstone/second. In case you are wondering why we aren’t using a 1.5/s, 3 resonator build It‘s because we’re trying to prepare for when extruders get nerfed. Also, Honour>Results.
+Uses 3 resonators, producing 1.5 everstone/second. Honour>Results.
