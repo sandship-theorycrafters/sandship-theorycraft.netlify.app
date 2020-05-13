@@ -16,6 +16,7 @@ tags:
   - 12x12
   - iron-wire
   - copper-wire
+  - steel-spring
   - no-importers
 image:
   filename: featured.png
@@ -23,4 +24,4 @@ image:
   preview_only: false
   caption: Wire No Imports
 ---
-A wire build. You need to change all shapers to extruders for the listed output of wire. Made by Patytseng, who has an awesome spreadsheet you should check out.
+An extruding build. For Steel Springs, use importers with RAW STEEL.
