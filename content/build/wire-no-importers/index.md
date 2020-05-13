@@ -18,6 +18,9 @@ tags:
   - copper-wire
   - steel-spring
   - no-importers
+  - iron
+  - copper
+  - steel
 image:
   filename: featured.png
   focal_point: Smart
