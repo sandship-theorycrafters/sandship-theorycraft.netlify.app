@@ -23,9 +23,10 @@ tags:
   - steel-gear
   - with-importers
   - steel
+  - carbon
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-<>
+A steel gets based on the on the Steel plate design. Self contained despite using importers. Also makes some by-products.
