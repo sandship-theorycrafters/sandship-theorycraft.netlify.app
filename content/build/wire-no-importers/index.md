@@ -5,10 +5,15 @@ subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: Varies
+    rate: "41.7"
+  - material: Steel
+    rate: "41.7"
 output:
-  - material: Wire, Springs, Bolts
-    rate: Varies
+  - material: Wire
+    rate: "20.02"
+    reliability: Stable
+  - rate: "22.24"
+    material: Steel Spring
     reliability: Stable
 authors:
   - patytseng
