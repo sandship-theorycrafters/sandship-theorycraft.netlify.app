@@ -16,7 +16,7 @@ tags:
   - 8x5
   - iron
   - copper
-  - silicone
+  - silicon
   - carbon
   - beginner
 image:
