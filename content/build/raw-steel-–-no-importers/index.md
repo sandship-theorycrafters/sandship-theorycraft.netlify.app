@@ -13,6 +13,7 @@ output:
 authors:
   - omfgcookies
 tags:
+  - 12x12
   - steel
   - no-importers
 image:
