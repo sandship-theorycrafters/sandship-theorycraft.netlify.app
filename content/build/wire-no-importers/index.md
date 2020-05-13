@@ -24,4 +24,4 @@ image:
   preview_only: false
   caption: Wire No Imports
 ---
-An extruding build. For Steel Springs, use importers with RAW STEEL.
+An extruding build. Depending on the input resource, different outputs will be achieved. If you want to make springs, swap Synths with importers. Import raw steel (A LOT OF THE STUFF). Also remember to change the extruders and shapers so you get your desired output..
