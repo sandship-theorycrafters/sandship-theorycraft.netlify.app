@@ -1,6 +1,6 @@
 ---
-identifier: Plates No Importers
-title: Plates
+identifier: Non-Steel Plates No Importers
+title: Iron Plates
 subtitle: No Importers
 size: 12x12
 input:
