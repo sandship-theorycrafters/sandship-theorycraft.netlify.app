@@ -29,4 +29,4 @@ image:
 ---
 A rod producing build. Uses lots of grabbers and splitters. Interestingly enough, the synths weren’t split twice due to space constraints, but the grabbers helped balance this out (though not all the way)
 
-Can be used to make steel rods if synths are switched with importers.
+Can be used to make steel rods if synths are switched with steel importers.
