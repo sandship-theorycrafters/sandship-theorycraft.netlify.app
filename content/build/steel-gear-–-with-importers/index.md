@@ -23,7 +23,6 @@ tags:
   - steel-gear
   - with-importers
   - steel
-  - carbon
 image:
   filename: featured.png
   focal_point: Smart
