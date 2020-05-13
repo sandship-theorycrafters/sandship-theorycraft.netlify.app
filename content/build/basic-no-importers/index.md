@@ -19,6 +19,7 @@ tags:
   - silicon
   - carbon
   - no-importers
+  - raw
 image:
   filename: featured.png
   focal_point: Smart
