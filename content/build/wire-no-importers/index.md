@@ -1,6 +1,6 @@
 ---
-identifier: Wire No Importers
-title: Wire
+identifier: Extruding – No Importers
+title: Extruding
 subtitle: No Importers
 size: 12x12
 input:
