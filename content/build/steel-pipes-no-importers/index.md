@@ -17,7 +17,7 @@ tags:
   - steel pipes
   - no importers
 image:
-  filename: b2508867-addc-4557-a017-9652bcd26e90.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
