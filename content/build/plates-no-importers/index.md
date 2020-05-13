@@ -29,6 +29,6 @@ image:
   preview_only: false
   caption: Plates No Importers
 ---
-The first real build in this compendium. A very crammed build, but still effective. Grabbers are key here. The splitter on splitter design is a common trick us theorycrafters use. Basically the synthesizer can shoot stuff out at 30/s but belts can only carry 5/s. To make up for this, we use splitters on splitters, which cause 15/s to be sent out across the 4 points exit points of the splitters.
+A plate build. It is very crowded, but still effective. It will suck up A TON of your substance, so be careful when using it. It’s also rather... unstable. It may take several load/reload attempts for max production.
 
 To adapt this for steel plates, change the synths to importers for steel
