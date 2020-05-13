@@ -24,7 +24,7 @@ tags:
   - with-importers
   - ""
 image:
-  filename: steel-rods.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: <wrong image... need more stable version>
