@@ -21,4 +21,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<Fillertext>
+The most steel we can get out of one factory right now. Is probably very unstable. Does not fit in 12x12 so usage is questionable.
