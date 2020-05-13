@@ -5,13 +5,13 @@ subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "27.27"
+    rate: "28.51"
 output:
   - material: Ammunition
-    rate: "9.08"
+    rate: "9.48"
     reliability: Stable
 authors:
-  - DarkMatterMatt
+  - Ture
 tags:
   - 12x12
   - ammunition
