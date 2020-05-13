@@ -24,4 +24,4 @@ image:
   preview_only: false
   caption: Basic Experimental
 ---
-So you might be wondering what’s up with the picture? The answer is that we don’t have a good picture as of right now. Multiply this build 5 times over and you’ll get the output provided on top. The above build was made by “Tangy”!
+This is an Experimental Build which provides the highest materials/synth at the given moment in time. We currently do not have a way to fit 5 of these into a 12x12. Obviously this will be VERY unstable. Don’t use this unless you want to screw around with game mechanics.
