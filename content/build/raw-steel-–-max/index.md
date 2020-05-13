@@ -15,7 +15,7 @@ authors:
 tags:
   - max
   - steel
-  - ""
+  - raw-steel
 image:
   filename: featured.png
   focal_point: Smart
