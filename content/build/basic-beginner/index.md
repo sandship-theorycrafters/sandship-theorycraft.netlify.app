@@ -1,7 +1,7 @@
 ---
 identifier: Raw Materials – Beginners
 title: Raw Materials
-subtitle: Beginner-Friendly
+subtitle: Beginner Friendly
 size: 8x5
 input:
   - material: Substance
