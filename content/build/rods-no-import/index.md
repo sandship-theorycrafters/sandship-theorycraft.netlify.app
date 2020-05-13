@@ -1,7 +1,7 @@
 ---
-identifier: Rods No Import
+identifier: Rods No Importers
 title: Rods
-subtitle: No Import
+subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
@@ -16,7 +16,7 @@ tags:
   - 12x12
   - iron-rod
   - copper-rod
-  - no-imports
+  - no-importers
 image:
   filename: featured.png
   focal_point: Smart
