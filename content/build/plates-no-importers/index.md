@@ -15,9 +15,14 @@ authors:
 tags:
   - 12x12
   - iron-plate
+  - steel-plate
   - copper-plate
   - glass-plate
   - no-importers
+  - iron
+  - steel
+  - copper
+  - glass
 image:
   filename: featured.jpg
   focal_point: Smart
