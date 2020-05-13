@@ -16,6 +16,7 @@ tags:
   - 12x12
   - iron-powder
   - no-importers
+  - iron
 image:
   filename: featured.png
   focal_point: Smart
