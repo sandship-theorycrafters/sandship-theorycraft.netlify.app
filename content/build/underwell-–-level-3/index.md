@@ -11,7 +11,7 @@ output:
     rate: "1.5"
     reliability: Stable
 authors:
-  - Spatzl
+  - Spatzl 阿部コンラード
 tags:
   - everstone
   - underwell
