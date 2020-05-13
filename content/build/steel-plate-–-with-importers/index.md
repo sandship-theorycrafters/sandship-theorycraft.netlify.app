@@ -23,10 +23,11 @@ tags:
   - steel-plate
   - with-importers
   - steel
+  - carbon
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: ""
 ---
-A steel plate build. Is is self contained despite using importers. It is stable and you should never run out of input materials. On the plus side, you get some bonus resources in the form of steel and coal.
+A steel plate build. Is is self contained despite using importers. It is stable and you should never run out of input materials. On the plus side, you get some bonus resources in the form of steel and carbon.
