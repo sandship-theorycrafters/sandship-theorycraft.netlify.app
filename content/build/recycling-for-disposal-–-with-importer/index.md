@@ -14,7 +14,7 @@ authors:
   - patytseng
 tags:
   - 12x12
-  - recycling-for-disposal
+  - recycling
   - with-importer
 image:
   filename: featured.png
