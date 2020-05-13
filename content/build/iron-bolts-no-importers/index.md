@@ -22,4 +22,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Change all extruders to shapers to make get the listed output.
+Have fun.
