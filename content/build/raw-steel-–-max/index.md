@@ -17,7 +17,7 @@ tags:
   - steel
   - ""
 image:
-  filename: max-steel.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
