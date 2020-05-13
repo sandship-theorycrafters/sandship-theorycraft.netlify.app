@@ -28,4 +28,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<>
+A barrel build. A variation on the steel plates design. Self contained despite using importers, also provides you with some by-products
