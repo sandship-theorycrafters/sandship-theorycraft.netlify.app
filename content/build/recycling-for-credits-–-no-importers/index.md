@@ -15,11 +15,11 @@ authors:
 tags:
   - 12x12
   - credits
-  - recycling-for-credits
+  - recycling
   - no-importers
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-<>
+A recycler made specifically for credits. Use silicon in the synthesizers. Also, be careful stability is questionable.
