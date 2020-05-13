@@ -14,7 +14,7 @@ collections:
     folder: 'content/build'
     path: '{{slug}}/index'
     identifier_field: identifier
-    summary: '{{range fields.input }}[{{ .material }}] ({{ .rate }}) {{ end }} > {{range fields.output }}[{{ .material }}] ({{ .rate }}) { {{ .reliability }} }{{ end }}'
+    summary: '{{title}} - {{subtitle}}'
     create: true
     fields:  # The fields each document in this collection have
       - {label: "Identifier", name: "identifier", widget: "string"}
