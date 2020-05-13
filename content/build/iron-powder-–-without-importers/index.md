@@ -1,7 +1,7 @@
 ---
-identifier: Iron Powder – Without Importers
+identifier: Iron Powder – No Importers
 title: Iron Powder
-subtitle: Without Importers
+subtitle: No Importers
 size: 12x12
 input:
   - rate: "86.27"
@@ -15,7 +15,7 @@ authors:
 tags:
   - 12x12
   - iron-powder
-  - without-importers
+  - no-importers
 image:
   filename: featured.png
   focal_point: Smart
