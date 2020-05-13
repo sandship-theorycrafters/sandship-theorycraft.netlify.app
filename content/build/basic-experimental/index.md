@@ -17,6 +17,7 @@ tags:
   - copper
   - silicon
   - carbon
+  - raw
 image:
   filename: featured.png
   focal_point: Smart
