@@ -14,8 +14,8 @@ authors:
   - ChingChangMoney
 tags:
   - 12x12
-  - iron-rods
-  - copper-rods
+  - iron-rod
+  - copper-rod
   - no-imports
 image:
   filename: featured.png
