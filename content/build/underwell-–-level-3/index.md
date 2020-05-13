@@ -21,4 +21,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<>
+Uses 2 resonators, producing 1 everstone/second. In case you are wondering why we aren’t using a 1.5/s, 3 resonator build It‘s because we’re trying to prepare for when extruders get nerfed. Also, Honour>Results.
