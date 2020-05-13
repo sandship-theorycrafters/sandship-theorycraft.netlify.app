@@ -1,7 +1,7 @@
 ---
-identifier: Wire No Imports
+identifier: Wire No Importers
 title: Wire
-subtitle: No Imports
+subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
@@ -16,7 +16,7 @@ tags:
   - 12x12
   - iron-wire
   - copper-wire
-  - no-imports
+  - no-importers
 image:
   filename: featured.png
   focal_point: Smart
