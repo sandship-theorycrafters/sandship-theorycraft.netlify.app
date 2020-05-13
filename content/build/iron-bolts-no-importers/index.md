@@ -16,6 +16,7 @@ tags:
   - 12x12
   - iron-bolt
   - no-importers
+  - iron
 image:
   filename: featured.png
   focal_point: Smart
