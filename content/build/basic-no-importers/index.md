@@ -26,4 +26,4 @@ image:
   preview_only: false
   caption: Basic Materials - No Imports - 12x12
 ---
-Introducing our first major contributor, Ching! The above build is currently the best build for any basic material (except steel). Although the picture may show copper, simply set the synths to iron and you’ll have the same output.
+This build works for any raw material, with the exception of steel (for obvious reasons). If you’re in need of coal/carbon/silicon/copper for any reason, just use this build. Be sure to change the synths to what you want too.
