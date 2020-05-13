@@ -1,15 +1,15 @@
 ---
-identifier: Recycling for Credits – No Importers
-title: Recycling for Credits
+identifier: Recycling for Credit – No Importers
+title: Recycling for Credit
 subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "75"
+    rate: "83.18"
 output:
-  - material: Credits
-    rate: "6"
-    reliability: Moderately Unstable
+  - material: Credit
+    rate: "6.65"
+    reliability: Stable
 authors:
   - patytseng
 tags:
