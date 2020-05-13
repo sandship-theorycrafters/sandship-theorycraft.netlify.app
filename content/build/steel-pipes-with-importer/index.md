@@ -17,7 +17,7 @@ tags:
   - with importers
   - steel
 image:
-  filename: 0a9972ca-daf1-4bb0-b43a-8155bac729f7.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
