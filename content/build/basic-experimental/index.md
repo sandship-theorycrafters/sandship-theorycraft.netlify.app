@@ -15,7 +15,7 @@ authors:
 tags:
   - iron
   - copper
-  - silicone
+  - silicon
   - carbon
 image:
   filename: featured.png
