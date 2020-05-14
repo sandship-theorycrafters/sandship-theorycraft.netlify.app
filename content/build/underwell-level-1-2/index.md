@@ -16,7 +16,7 @@ tags:
   - everstone
   - underwell
 image:
-  filename: 0f076bef-dc03-4e5b-8aae-b2c90667f308.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
