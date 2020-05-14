@@ -22,3 +22,15 @@ image:
   preview_only: false
 ---
 A build that creates steel chains from scratch. Actually doesn’t use that much substance in the grand scheme of things.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**45
+
+**Material:**Steel Chains
+
+**Rate:**3.34
+
+**Reliability:**Minor Instability
