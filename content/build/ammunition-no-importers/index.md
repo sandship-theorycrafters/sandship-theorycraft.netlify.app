@@ -16,7 +16,7 @@ tags:
   - 12x12
   - ammunition
   - no-importers
-  - iron
+  - ""
 image:
   filename: featured.jpg
   focal_point: Smart
