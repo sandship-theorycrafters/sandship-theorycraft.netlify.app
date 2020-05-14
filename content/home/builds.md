@@ -44,6 +44,22 @@ title = "Builds"
   [[content.filter_button]]
     name = "Everstone"
     tag = "everstone"
+    
+  [[content.filter_button]]
+    name = "Chemicals"
+    tag = "chemicals"
+    
+  [[content.filter_button]]
+    name = "Credits"
+    tag = "credits"
+    
+  [[content.filter_button]]
+    name = "Mixed"
+    tag = "mixed"
+    
+  [[content.filter_button]]
+    name = "Other"
+    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
