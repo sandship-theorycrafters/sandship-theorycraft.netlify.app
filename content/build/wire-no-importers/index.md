@@ -33,3 +33,25 @@ image:
   caption: Wire No Imports
 ---
 An extruding build. Depending on the input resource, different outputs will be achieved. If you want to make springs, swap Synths with importers. Import raw steel (A LOT OF THE STUFF). Also remember to change the extruders and shapers so you get your desired output.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**41.7
+
+**Material:**Steel
+
+**Rate:**41.7
+
+**Material:**Wire
+
+**Rate:**20.02
+
+**Reliability:**Stable
+
+**Material:**Steel Spring
+
+**Rate:**22.24
+
+**Reliability:**Stable
