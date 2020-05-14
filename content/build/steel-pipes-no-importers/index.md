@@ -22,3 +22,15 @@ image:
   preview_only: false
 ---
 A steel pipes build. Uses relatively low amount of substance
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**45
+
+**Material:**Steel Pipe
+
+**Rate:**1.67
+
+**Reliability:**Stable
