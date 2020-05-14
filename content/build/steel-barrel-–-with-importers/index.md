@@ -29,3 +29,27 @@ image:
   preview_only: false
 ---
 A barrel build. A variation on the steel plates design. Self contained despite using importers, also provides you with some by-products
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**66.72
+
+**Material:**Steel Barrel
+
+**Rate:**3.33
+
+**Reliability:**Stable
+
+**Material:**Steel
+
+**Rate:**1.39
+
+**Reliability:**Stable
+
+**Material:**Carbon
+
+**Rate:**2.48
+
+**Reliability:**Stable
