@@ -27,3 +27,15 @@ image:
   caption: Basic Beginner 8x5
 ---
 A very simple build for beginners. Costs 6750 credits to make from scratch
+
+**Size:**8x5
+
+**Material:**Substance
+
+**Rate:**50
+
+**Material:**Basic
+
+**Rate:**50
+
+**Reliability:**Stable
