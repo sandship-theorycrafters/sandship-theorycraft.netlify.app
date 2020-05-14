@@ -11,7 +11,7 @@ output:
     rate: "87.93"
     reliability: Moderate
 authors:
-  - ""
+  - A Small Emu
 tags:
   - 12x12
   - iron
