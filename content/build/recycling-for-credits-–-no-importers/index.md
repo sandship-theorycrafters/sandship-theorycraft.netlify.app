@@ -18,7 +18,7 @@ tags:
   - recycling
   - no-importers
 image:
-  filename: featured.png
+  filename: image0.png
   focal_point: Smart
   preview_only: false
 ---
@@ -32,6 +32,6 @@ A recycler made specifically for credits. Use silicon in the synthesizers. Also,
 
 **Material:**Credit
 
-**Rate:**6.65
+**Rate:**6.75
 
 **Reliability:**Stable
