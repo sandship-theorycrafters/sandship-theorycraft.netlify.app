@@ -22,3 +22,15 @@ image:
   preview_only: false
 ---
 Uses 3 resonators, producing 1.5 everstone/second. Honour>Results.
+
+**Size:**Lvl 3
+
+**Material:**Substance
+
+**Rate:**2.13
+
+**Material:**Everstone
+
+**Rate:**1.5
+
+**Reliability:**Stable
