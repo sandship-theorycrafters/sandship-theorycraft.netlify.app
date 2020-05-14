@@ -22,3 +22,15 @@ image:
   preview_only: false
 ---
 This is a build for a microfactory to produce steel. The steel can only be processed in a different building due to size constraints.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**67.57
+
+**Material:**Steel
+
+**Rate:**22.5
+
+**Reliability:**Moderately Stable
