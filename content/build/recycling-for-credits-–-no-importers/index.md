@@ -23,3 +23,15 @@ image:
   preview_only: false
 ---
 A recycler made specifically for credits. Use silicon in the synthesizers. Also, be careful stability is questionable.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**83.18
+
+**Material:**Credit
+
+**Rate:**6.65
+
+**Reliability:**Stable
