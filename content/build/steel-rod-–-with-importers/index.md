@@ -23,3 +23,15 @@ image:
   preview_only: false
 ---
 A rather complicated build for making Steel rods. Uses Importers, so some people may want to stay away. However, due to the way it was made, ot should be relatively stable with a few hiccups.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**21
+
+**Material:**Steel Rod
+
+**Rate:**13.33
+
+**Reliability:**Mildly Unstable
