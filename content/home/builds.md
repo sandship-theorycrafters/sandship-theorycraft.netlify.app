@@ -56,10 +56,6 @@ title = "Builds"
   [[content.filter_button]]
     name = "Mixed"
     tag = "mixed"
-    
-  [[content.filter_button]]
-    name = "Other"
-    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
