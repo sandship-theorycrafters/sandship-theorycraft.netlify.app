@@ -1,17 +1,17 @@
 ---
-identifier: Raw Materials – No Importers
-title: Raw Materials
+identifier: Raw Material – No Importers
+title: Raw Material
 subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "87.9"
+    rate: "89.02"
 output:
-  - material: Basic
-    rate: "87.93"
-    reliability: Moderate
+  - material: Raw Material
+    rate: "89.03"
+    reliability: Moderately Stable
 authors:
-  - A Small Emu
+  - Ture
 tags:
   - 12x12
   - iron
@@ -19,9 +19,9 @@ tags:
   - silicon
   - carbon
   - no-importers
-  - raw
+  - raw-material
 image:
-  filename: e141fe32-cc95-4849-9011-3fa39c6b42eb.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Basic Materials - No Imports - 12x12
