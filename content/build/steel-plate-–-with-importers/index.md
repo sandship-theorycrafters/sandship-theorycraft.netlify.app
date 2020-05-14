@@ -30,3 +30,27 @@ image:
   caption: ""
 ---
 A steel plate build. Is is self contained despite using importers. It is stable and you should never run out of input materials. On the plus side, you get some bonus resources in the form of steel and carbon.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**63
+
+**Material:**Steel Plate
+
+**Rate:**6.66
+
+**Reliability:**Mostly Stable
+
+**Material:**Steel
+
+**Rate:**1
+
+**Reliability:**Stable
+
+**Material:**Coal
+
+**Rate:**2.5
+
+**Reliability:**Stable
