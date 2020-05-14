@@ -16,6 +16,7 @@ tags:
   - 12x12
   - recycling
   - with-importer
+  - credits
 image:
   filename: featured.png
   focal_point: Smart
