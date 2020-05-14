@@ -27,3 +27,15 @@ image:
   caption: Basic Materials - No Imports - 12x12
 ---
 This build works for any raw material, with the exception of steel (for obvious reasons). If you’re in need of coal/carbon/silicon/copper for any reason, just use this build. Be sure to change the synths to what you want too.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**86.3
+
+**Material:**Basic
+
+**Rate:**86.31
+
+**Reliability:**Moderate
