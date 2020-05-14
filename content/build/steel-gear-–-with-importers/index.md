@@ -29,3 +29,27 @@ image:
   preview_only: false
 ---
 A steel gets based on the on the Steel plate design. Self contained despite using importers. Also makes some by-products.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**66.72
+
+**Material:**Steel Gear
+
+**Rate:**8.87
+
+**Reliability:**Stable
+
+**Material:**Steel
+
+**Rate:**1.39
+
+**Reliability:**Stable
+
+**Material:**Carbon
+
+**Rate:**2.48
+
+**Reliability:**Stable
