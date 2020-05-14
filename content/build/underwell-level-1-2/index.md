@@ -13,8 +13,8 @@ output:
 authors:
   - SharkyTheWhale
 tags:
-  - Everstone
-  - Underwell
+  - everstone
+  - underwell
 image:
   filename: f2a52fe9-26dd-497e-bd78-b69a10d9ee13.png
   focal_point: Smart
