@@ -20,7 +20,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A “Guns Blazing” Underwell build. Can be adjusted for Underwell level 3 and possibly even 4 if you replace the wall chunks with resonators. And yes, you read that right, I SharkyTheWhale, self proclaimed and acting senior editor of this website has finally contributed something. Cheers. Honour>Results FTW
+A “Guns Blazing” Underwell build.  And yes, you read that right, I SharkyTheWhale, self proclaimed and acting senior editor of this website has finally contributed something. Cheers. Honour>Results FTW
 
 **Size:**Level 1–3
 
