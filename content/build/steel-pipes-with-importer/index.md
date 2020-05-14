@@ -22,3 +22,15 @@ image:
   preview_only: false
 ---
 A steel pipes build. All steel is imported, so make sure you have a backup supply. Uses lots of grabbers.
+
+**Size:**12x12
+
+**Material:**Steel
+
+**Rate:**31.25
+
+**Material:**Steel pipes
+
+**Rate:**3.48
+
+**Reliability:**Stable
