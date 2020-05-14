@@ -22,4 +22,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Have fun.
+Modified Extruding BJill used for bolet’s. Have fun guys.
+
+**Size:**12x12
+
+**Material:**Substance
+
+**Rate:**43.02
+
+**Material:**Iron Bolt
+
+**Rate:**22.5
+
+**Reliability:**Stable
