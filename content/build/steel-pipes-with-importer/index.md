@@ -4,20 +4,20 @@ title: Steel Pipes
 subtitle: With Importer
 size: 12x12
 input:
-  - material: Steel
-    rate: "31.25"
+  - material: Steel pipes
+    rate: "23.33"
 output:
   - material: Steel pipes
-    rate: "3.48"
+    rate: "7.73"
     reliability: Stable
 authors:
-  - Leon
+  - MiMiXis
 tags:
   - steel pipes
   - with importers
   - steel
 image:
-  filename: featured.png
+  filename: 5111348c-d3f0-4fec-af91-37ddc7c45988.jpeg
   focal_point: Smart
   preview_only: false
 ---
@@ -25,12 +25,12 @@ A steel pipes build. All steel is imported, so make sure you have a backup suppl
 
 **Size:**12x12
 
-**Material:**Steel
+**Material:**Steel plates
 
-**Rate:**31.25
+**Rate:23.33**
 
 **Material:**Steel pipes
 
-**Rate:**3.48
+**Rate: 7.73**
 
 **Reliability:**Stable
