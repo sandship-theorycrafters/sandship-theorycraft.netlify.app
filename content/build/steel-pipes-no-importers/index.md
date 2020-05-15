@@ -13,9 +13,10 @@ output:
 authors:
   - Patytseng
 tags:
+  - no importers
   - steel
   - steel pipes
-  - no importers
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

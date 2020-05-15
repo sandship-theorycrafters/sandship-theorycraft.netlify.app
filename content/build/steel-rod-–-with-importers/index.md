@@ -13,10 +13,10 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - steel-rod
   - with-importers
   - steel
+  - steel-rod
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

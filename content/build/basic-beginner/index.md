@@ -13,13 +13,17 @@ output:
 authors:
   - ChingChangMoney
 tags:
-  - 8x5
+  - no importers
   - iron
   - copper
   - silicon
   - carbon
+  - iron ore
+  - copper ore
+  - silicon
+  - carbon
   - beginner
-  - raw
+  - 8x5
 image:
   filename: featured.png
   focal_point: Smart

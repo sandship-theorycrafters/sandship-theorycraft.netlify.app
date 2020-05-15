@@ -14,8 +14,7 @@ authors:
   - Spatzl 阿部コンラード
 tags:
   - everstone
-  - underwell
-  - lvl-3
+  - lvl 3
 image:
   filename: featured.jpg
   focal_point: Smart

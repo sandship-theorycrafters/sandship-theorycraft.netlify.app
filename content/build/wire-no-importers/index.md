@@ -18,14 +18,14 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - iron-wire
-  - copper-wire
-  - steel-spring
-  - no-importers
+  - importers optional
   - iron
   - copper
   - steel
+  - iron-wire
+  - copper-wire
+  - steel-spring
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

@@ -13,9 +13,10 @@ output:
 authors:
   - Patytseng
 tags:
-  - steel chain
-  - steel
   - no importers
+  - steel
+  - steel chain
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

@@ -13,11 +13,15 @@ output:
 authors:
   - Tangy
 tags:
+  - no importers
   - iron
   - copper
   - silicon
   - carbon
-  - raw
+  - iron ore
+  - copper ore
+  - silicon
+  - carbon
 image:
   filename: featured.png
   focal_point: Smart

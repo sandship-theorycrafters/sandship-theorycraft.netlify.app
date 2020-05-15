@@ -19,10 +19,10 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - steel-plate
   - with-importers
   - steel
+  - steel-plate
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

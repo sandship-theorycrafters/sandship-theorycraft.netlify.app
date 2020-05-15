@@ -13,13 +13,16 @@ output:
 authors:
   - Ture
 tags:
-  - 12x12
+  - no-importers
   - iron
   - copper
   - silicon
   - carbon
-  - no-importers
-  - raw-material
+  - iron ore
+  - copper ore
+  - silicon
+  - carbon
+  - 12x12
 image:
   filename: featured.jpg
   focal_point: Smart

@@ -13,10 +13,10 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - iron-bolt
   - no-importers
   - iron
+  - iron-bolt
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

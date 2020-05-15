@@ -13,9 +13,10 @@ output:
 authors:
   - omfgcookies
 tags:
-  - 12x12
+  - no importers
   - steel
   - no-importers
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

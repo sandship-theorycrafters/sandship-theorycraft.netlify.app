@@ -2,7 +2,7 @@
 identifier: Underwell - Level 1-2
 title: Underwell
 subtitle: Level 1-2
-size: Level 1–3
+size: Level 1–2
 input:
   - material: Substance
     rate: "6.66"
@@ -14,7 +14,7 @@ authors:
   - SharkyTheWhale
 tags:
   - everstone
-  - underwell
+  - lvl 1-2
 image:
   filename: featured.png
   focal_point: Smart

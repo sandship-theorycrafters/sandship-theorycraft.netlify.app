@@ -13,16 +13,16 @@ output:
 authors:
   - Ture
 tags:
-  - 12x12
-  - iron-plate
-  - steel-plate
-  - copper-plate
-  - glass-plate
   - no-importers
   - iron
   - steel
   - copper
   - glass
+  - iron plate
+  - steel plate
+  - copper plate
+  - glass plate
+  - 12x12
 image:
   filename: featured.jpg
   focal_point: Smart

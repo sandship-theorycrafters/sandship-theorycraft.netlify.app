@@ -13,14 +13,14 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - iron-rod
-  - copper-rod
-  - steel-rod
   - no-importers
   - iron
   - copper
   - steel
+  - iron rod
+  - copper rod
+  - steel rod
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

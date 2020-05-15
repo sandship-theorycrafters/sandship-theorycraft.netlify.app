@@ -13,10 +13,9 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - recycling
   - with-importer
   - credits
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

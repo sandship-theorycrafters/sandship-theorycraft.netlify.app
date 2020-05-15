@@ -19,10 +19,10 @@ output:
 authors:
   - patytseng
 tags:
-  - 12x12
-  - steel-barrel
   - with-importers
   - steel
+  - steel-barrel
+  - 12x12
 image:
   filename: featured.png
   focal_point: Smart

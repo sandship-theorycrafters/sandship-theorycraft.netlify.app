@@ -13,9 +13,10 @@ output:
 authors:
   - Illunimous
 tags:
-  - max
+  - no importers
   - steel
   - raw-steel
+  - 16x12
 image:
   filename: featured.png
   focal_point: Smart
