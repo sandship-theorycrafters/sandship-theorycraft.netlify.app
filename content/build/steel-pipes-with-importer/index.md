@@ -18,7 +18,7 @@ tags:
   - steel pipes
   - 12x12
 image:
-  filename: 5111348c-d3f0-4fec-af91-37ddc7c45988.jpeg
+  filename: f4bcb2bb-50c8-43aa-aead-fd85111f7de0.jpeg
   focal_point: Smart
   preview_only: false
 ---
