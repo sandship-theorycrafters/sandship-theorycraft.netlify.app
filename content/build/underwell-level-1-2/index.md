@@ -16,13 +16,13 @@ tags:
   - everstone
   - lvl 1-2
 image:
-  filename: featured.png
+  filename: c45f2dd3-874c-4637-b08b-9b12b853b964.png
   focal_point: Smart
   preview_only: false
 ---
 A “Guns Blazing” Underwell build.  And yes, you read that right, I SharkyTheWhale, self proclaimed and acting senior editor of this website has finally contributed something. Cheers. Honour>Results FTW
 
-**Size:**Level 1–3
+**Size:**Level 1–2
 
 **Material:**Substance
 
