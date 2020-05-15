@@ -16,7 +16,7 @@ tags:
   - everstone
   - lvl 1-2
 image:
-  filename: c45f2dd3-874c-4637-b08b-9b12b853b964.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
