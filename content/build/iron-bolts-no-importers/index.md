@@ -8,7 +8,7 @@ input:
     rate: "47"
 output:
   - material: Iron Bolt
-    rate: "22.5"
+    rate: "23.33"
     reliability: Stable
 authors:
   - HealerOfSouls
