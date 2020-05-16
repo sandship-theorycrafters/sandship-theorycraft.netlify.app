@@ -1,7 +1,7 @@
 ---
-identifier: Steel Pipes - With Importer
+identifier: Steel Pipe - With Importers
 title: Steel Pipes
-subtitle: With Importer
+subtitle: With Importers
 size: 12x12
 input:
   - material: Steel pipes
@@ -18,7 +18,7 @@ tags:
   - steel pipes
   - 12x12
 image:
-  filename: f4bcb2bb-50c8-43aa-aead-fd85111f7de0.jpeg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
