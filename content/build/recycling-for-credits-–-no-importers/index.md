@@ -8,7 +8,7 @@ input:
     rate: "86.92"
 output:
   - material: Credit
-    rate: "6.95"
+    rate: "6.96"
     reliability: Stable
 authors:
   - Ture
@@ -27,10 +27,10 @@ A recycler made specifically for credits. Use silicon in the synthesizers. Also,
 
 **Material:**Substance
 
-**Rate:**83.18
+**Rate:**86.92
 
 **Material:**Credit
 
-**Rate:**6.75
+**Rate:**6.96
 
 **Reliability:**Stable
