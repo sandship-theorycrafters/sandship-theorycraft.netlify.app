@@ -1,6 +1,6 @@
 ---
 identifier: Steel Barrel – With Importers
-title: Steel Barrel
+title: Steel Barrel With Importers
 subtitle: With Importers
 size: 12x12
 input:
