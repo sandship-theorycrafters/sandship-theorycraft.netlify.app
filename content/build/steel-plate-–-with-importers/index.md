@@ -5,16 +5,16 @@ subtitle: With Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "63"
+    rate: "70.82"
 output:
   - material: Steel Plate
-    rate: "6.66"
+    rate: "7.5"
     reliability: Mostly Stable
-  - material: Steel
-    rate: "1"
+  - material: Iron
+    rate: "0.79"
     reliability: Stable
   - material: Coal
-    rate: "2.5"
+    rate: "2.48"
     reliability: Stable
 authors:
   - patytseng
