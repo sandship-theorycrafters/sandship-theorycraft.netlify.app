@@ -11,18 +11,18 @@ output:
     rate: "22.5"
     reliability: Stable
 authors:
-  - patytseng
+  - HealerOfSouls
 tags:
   - no-importers
   - iron
   - iron-bolt
   - 12x12
 image:
-  filename: featured.png
+  filename: 337558dc-2988-4e60-a99d-1f91a0b255db.jpeg
   focal_point: Smart
   preview_only: false
 ---
-Modified Extruding BJill used for bolet’s. Have fun guys.
+Iron bolts build.
 
 **Size:**12x12
 
