@@ -1,6 +1,6 @@
 ---
 identifier: Steel Rod – With Importers
-title: Steel Rod
+title: Steel Rod With Importers
 subtitle: With Importers
 size: 12x12
 input:
