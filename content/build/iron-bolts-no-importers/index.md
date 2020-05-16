@@ -18,7 +18,7 @@ tags:
   - iron-bolt
   - 12x12
 image:
-  filename: 337558dc-2988-4e60-a99d-1f91a0b255db.jpeg
+  filename: 741c1ee5-b837-41a5-8131-a8dbb25d117d.jpeg
   focal_point: Smart
   preview_only: false
 ---
