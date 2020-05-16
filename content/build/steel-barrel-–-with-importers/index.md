@@ -5,16 +5,16 @@ subtitle: With Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "66.72"
+    rate: "70.86"
 output:
   - material: Steel Barrel
-    rate: "3.33"
+    rate: "3.75"
     reliability: Stable
-  - material: Steel
-    rate: "1.39"
+  - material: Iron
+    rate: "0.84"
     reliability: Stable
   - material: Carbon
-    rate: "2.48"
+    rate: "2.45"
     reliability: Stable
 authors:
   - patytseng
@@ -34,22 +34,22 @@ A barrel build. A variation on the steel plates design. Self contained despite u
 
 **Material:**Substance
 
-**Rate:**66.72
+**Rate:**70.86
 
 **Material:**Steel Barrel
 
-**Rate:**3.33
+**Rate:**3.75
 
 **Reliability:**Stable
 
-**Material:**Steel
+**Material:**Iron
 
-**Rate:**1.39
+**Rate:**0.84
 
 **Reliability:**Stable
 
 **Material:**Carbon
 
-**Rate:**2.48
+**Rate:**2.45
 
 **Reliability:**Stable
