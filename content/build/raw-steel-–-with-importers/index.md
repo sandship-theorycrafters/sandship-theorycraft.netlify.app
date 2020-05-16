@@ -10,6 +10,12 @@ output:
   - material: Steel
     rate: "22.5"
     reliability: Stable
+  - material: "Iron "
+    rate: "0.79"
+    reliability: Stable
+  - reliability: Stable
+    material: Carbon
+    rate: "2.48"
 authors:
   - patytseng
 tags:
