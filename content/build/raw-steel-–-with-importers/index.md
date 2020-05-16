@@ -5,7 +5,7 @@ subtitle: With Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "68.29"
+    rate: "70.82"
 output:
   - material: Steel
     rate: "22.5"
