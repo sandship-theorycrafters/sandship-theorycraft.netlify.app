@@ -5,11 +5,20 @@ subtitle: With Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "21"
+    rate: "70.76"
 output:
   - material: Steel Rod
     rate: "13.33"
-    reliability: Mildly Unstable
+    reliability: Stable
+  - material: Steel
+    rate: "2.5"
+    reliability: Stable
+  - material: Iron
+    rate: "0.83"
+    reliability: Stable
+  - rate: "2.47"
+    material: Carbon
+    reliability: Stable
 authors:
   - patytseng
 tags:
@@ -22,7 +31,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A rather complicated build for making Steel rods. Uses Importers, so some people may want to stay away. However, due to the way it was made, ot should be relatively stable with a few hiccups.
+A rather complicated build for making Steel rods. Uses Importers, so some people may want to stay away. However, due to the way it was made, there were no hiccups throughout testing.
 
 **Size:**12x12
 
