@@ -5,7 +5,7 @@ subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "43.02"
+    rate: "47"
 output:
   - material: Iron Bolt
     rate: "22.5"
@@ -28,10 +28,10 @@ Iron bolts build.
 
 **Material:**Substance
 
-**Rate:**43.02
+**Rate:**47
 
 **Material:**Iron Bolt
 
-**Rate:**22.5
+**Rate:**23.33
 
 **Reliability:**Stable
