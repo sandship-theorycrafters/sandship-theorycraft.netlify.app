@@ -5,19 +5,19 @@ subtitle: No Importers
 size: 12x12
 input:
   - material: Substance
-    rate: "83.18"
+    rate: "86.92"
 output:
   - material: Credit
-    rate: "6.65"
+    rate: "6.95"
     reliability: Stable
 authors:
-  - patytseng
+  - Ture
 tags:
   - no-importers
   - credits
   - 12x12
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
