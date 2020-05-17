@@ -1,6 +1,6 @@
 ---
 identifier: Steel Chains - No Importer
-title: Steel Chains
+title: Steel Chains No Importer
 subtitle: No Importer
 size: 12x12
 input:
