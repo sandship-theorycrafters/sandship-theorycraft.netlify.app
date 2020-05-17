@@ -1,6 +1,6 @@
 ---
 identifier: Raw Materials – Beginner Friendly
-title: Raw Materials
+title: Raw Materials Beginner Friendly
 subtitle: Beginner Friendly
 size: 8x5
 input:
