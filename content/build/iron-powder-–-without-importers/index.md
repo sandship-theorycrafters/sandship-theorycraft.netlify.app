@@ -1,7 +1,7 @@
 ---
 identifier: Iron Powder – No Importers
 title: Iron Powder No Importers
-subtitle: No Importers
+subtitle: Patytseng
 size: 12x12
 input:
   - rate: "86.27"
