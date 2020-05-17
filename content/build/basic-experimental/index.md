@@ -1,7 +1,7 @@
 ---
 identifier: Raw Materials – Experimental
 title: Raw Materials Experimental
-subtitle: Experimental
+subtitle: Tangy
 size: nan
 input:
   - material: Substance
