@@ -1,7 +1,7 @@
 ---
 identifier: Steel Rod – With Importers
 title: Steel Rod With Importers
-subtitle: With Importers
+subtitle: https://sandship-theorycraft.netlify.app/
 size: 12x12
 input:
   - material: Substance
