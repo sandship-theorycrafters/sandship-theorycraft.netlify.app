@@ -20,7 +20,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Uses 3 resonators, producing 1.5 everstone/second. Honour>Results.
+Uses 3 resonators, producing 1.5 everstone/second. Honour>Results. 
+
+***Sharky’s wise words if wisdom:** This build may be honorable for not using extruders as walls, but it lacks glory. Needs a hell of a lot more guns if you ask me*
 
 **Size:**Lvl 3
 
