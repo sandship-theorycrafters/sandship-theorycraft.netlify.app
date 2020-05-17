@@ -1,6 +1,6 @@
 ---
 identifier: Extruding – No Importers
-title: Extruding
+title: Extruding No Importers
 subtitle: No Importers
 size: 12x12
 input:
