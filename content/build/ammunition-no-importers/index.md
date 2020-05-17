@@ -1,6 +1,6 @@
 ---
 identifier: Ammunition - No Importers
-title: Ammunition
+title: Ammunition No Importers
 subtitle: No Importers
 size: 12x12
 input:
