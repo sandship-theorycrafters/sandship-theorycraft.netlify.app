@@ -1,6 +1,6 @@
 ---
 identifier: Raw Steel – With Importers
-title: Raw Steel
+title: Raw Steel With Importers
 subtitle: With Importers
 size: 12x12
 input:
