@@ -1,6 +1,6 @@
 ---
 identifier: Steel Pipe - With Importers
-title: Steel Pipes
+title: Steel Pipes With Importers
 subtitle: With Importers
 size: 12x12
 input:
