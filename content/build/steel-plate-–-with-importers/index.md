@@ -1,6 +1,6 @@
 ---
 identifier: Steel Plate – With Importers
-title: Steel Plate
+title: Steel Plate With Importers
 subtitle: With Importers
 size: 12x12
 input:
