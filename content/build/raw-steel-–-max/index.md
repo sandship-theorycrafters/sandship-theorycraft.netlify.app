@@ -1,6 +1,6 @@
 ---
 identifier: Raw Steel – Max
-title: Raw Steel
+title: Raw Steel Max
 subtitle: Max
 size: 16x12
 input:
