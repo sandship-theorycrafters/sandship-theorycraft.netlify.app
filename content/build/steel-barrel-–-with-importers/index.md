@@ -1,7 +1,7 @@
 ---
 identifier: Steel Barrel – With Importers
 title: Steel Barrel With Importers
-subtitle: With Importers
+subtitle: Patytseng
 size: 12x12
 input:
   - material: Substance
