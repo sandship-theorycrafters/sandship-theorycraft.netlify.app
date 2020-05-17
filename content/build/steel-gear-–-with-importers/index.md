@@ -1,6 +1,6 @@
 ---
 identifier: Steel Gear – With Importers
-title: Steel Gear
+title: Steel Gear With Importers
 subtitle: With Importers
 size: 12x12
 input:
