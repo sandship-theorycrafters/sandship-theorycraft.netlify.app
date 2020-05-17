@@ -1,6 +1,6 @@
 ---
 identifier: Iron Bolts – No Importers
-title: Iron Bolts
+title: Iron Bolts No Importers
 subtitle: No Importers
 size: 12x12
 input:
