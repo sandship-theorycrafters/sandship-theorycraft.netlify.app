@@ -22,6 +22,7 @@ tags:
   - copper ore
   - silicon
   - carbon
+  - experimental
 image:
   filename: featured.png
   focal_point: Smart
