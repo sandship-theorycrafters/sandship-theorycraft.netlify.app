@@ -1,6 +1,6 @@
 ---
 identifier: Iron Powder – No Importers
-title: Iron Powder
+title: Iron Powder No Importers
 subtitle: No Importers
 size: 12x12
 input:
