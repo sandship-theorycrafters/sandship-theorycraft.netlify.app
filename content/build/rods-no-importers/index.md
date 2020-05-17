@@ -11,7 +11,7 @@ output:
     rate: "67.73"
     reliability: Stable
 authors:
-  - patytseng
+  - Ching
 tags:
   - no-importers
   - iron
@@ -27,7 +27,7 @@ image:
   preview_only: false
   caption: Rods No Imports
 ---
-A rod producing build. Uses lots of grabbers and splitters. Interestingly enough, the synths weren’t split twice due to space constraints, but the grabbers helped balance this out (though not all the way)
+A rod producing build. Ching’s improved version of Patytseng’s design. All paty has to do was add one grabber and he could have held the crown. Morale of the story, when uploading a build, make sure someone can’t on-up you on it.
 
 Can be used to make steel rods if synths are switched with steel importers.
 
