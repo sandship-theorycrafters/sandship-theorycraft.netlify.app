@@ -1,7 +1,7 @@
 ---
 identifier: Recycling for Credit – No Importers
 title: Recycling for Credit
-subtitle: No Importers
+subtitle: Patytseng
 size: 12x12
 input:
   - material: Substance
