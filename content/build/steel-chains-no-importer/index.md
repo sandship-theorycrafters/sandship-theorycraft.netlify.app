@@ -1,7 +1,7 @@
 ---
 identifier: Steel Chains - No Importer
 title: Steel Chains No Importer
-subtitle: No Importer
+subtitle: Patytseng
 size: 12x12
 input:
   - material: Substance
