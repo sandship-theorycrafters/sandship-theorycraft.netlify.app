@@ -1,6 +1,6 @@
 ---
 identifier: Plates – No Importers
-title: Plates
+title: Plates No Importers
 subtitle: No Importers
 size: 12x12
 input:
