@@ -1,7 +1,7 @@
 ---
 identifier: Steel Pipe - With Importers
 title: Steel Pipes With Importers
-subtitle: With Importers
+subtitle: MiMiXis
 size: 12x12
 input:
   - material: Steel pipes
