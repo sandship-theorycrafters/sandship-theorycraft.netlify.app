@@ -1,7 +1,7 @@
 ---
 identifier: Raw Materials – Beginner Friendly
 title: Raw Materials Beginner Friendly
-subtitle: Beginner Friendly
+subtitle: Ching
 size: 8x5
 input:
   - material: Substance
