@@ -1,7 +1,7 @@
 ---
 identifier: Raw Steel – No Importers
 title: Raw Steel No Importers
-subtitle: No Importers
+subtitle: OmfgCookies
 size: 12x12
 input:
   - material: Substance
