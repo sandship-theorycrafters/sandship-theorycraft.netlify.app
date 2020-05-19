@@ -20,7 +20,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A “Guns Blazing” Underwell build.  And yes, you read that right, I SharkyTheWhale, self proclaimed and acting senior editor of this website has finally contributed something. Cheers. Honour>Results FTW
+A “Guns Blazing” Underwell build.  And yes, you read that right, I SharkyTheWhale, self proclaimed and acting senior editor of this website has finally contributed something. Cheers. Honour>Results FTW 
+Note from Ap0them mucking around in the back: This is unprecidented and we need to save this event, it may not happen again
 
 **Size:**Level 1–2
 
