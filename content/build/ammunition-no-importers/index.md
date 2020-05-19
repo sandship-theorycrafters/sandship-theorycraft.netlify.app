@@ -1,7 +1,7 @@
 ---
 identifier: Ammunition - No Importers
 title: Ammunition No Importers
-subtitle: No Importers
+subtitle: Ture
 size: 12x12
 input:
   - material: Substance

@@ -1,7 +1,7 @@
 ---
 identifier: Raw Steel – Max
 title: Raw Steel Max
-subtitle: Max
+subtitle: Illuminous
 size: 16x12
 input:
   - material: Substance

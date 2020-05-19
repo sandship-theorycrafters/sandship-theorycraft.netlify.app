@@ -1,7 +1,7 @@
 ---
 identifier: Recycling for Disposal – With Importer
 title: Recycling for Disposal
-subtitle: With Importer
+subtitle: Patytseng
 size: 12x12
 input:
   - material: Any Importables

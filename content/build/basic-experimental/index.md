@@ -1,7 +1,7 @@
 ---
 identifier: Raw Materials – Experimental
 title: Raw Materials Experimental
-subtitle: Experimental
+subtitle: Tangy
 size: nan
 input:
   - material: Substance
@@ -22,6 +22,7 @@ tags:
   - copper ore
   - silicon
   - carbon
+  - experimental
 image:
   filename: featured.png
   focal_point: Smart

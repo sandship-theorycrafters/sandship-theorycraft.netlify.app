@@ -1,7 +1,7 @@
 ---
 identifier: Iron Bolts – No Importers
 title: Iron Bolts No Importers
-subtitle: No Importers
+subtitle: Healer Of Souls
 size: 12x12
 input:
   - material: Substance
