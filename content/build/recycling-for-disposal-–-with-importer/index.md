@@ -21,7 +21,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A recycling build. It may not be the most efficient in terms of money, but it’s good for dumping extra resources for a bit of cash. Uses importers, so be careful.
+A recycling build. It may not be the most efficient in terms of money/substance, but it’s good for dumping extra resources for a bit of cash. Uses importers, so be careful as the importer bug may occur.
 
 **Size:**12x12
 
