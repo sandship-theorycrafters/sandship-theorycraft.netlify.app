@@ -27,7 +27,7 @@ image:
   preview_only: false
   caption: Rods No Imports
 ---
-A rod producing build. Ching’s improved version of Patytseng’s design. All paty has to do was add one grabber and he could have held the crown. Morale of the story, when uploading a build, make sure someone can’t on-up you on it.
+A rod producing build. Ching’s improved version of Patytseng’s design. All paty has to do was add one grabber and he could have held the crown. Moral of the story, when uploading a build, make sure someone can’t one-up you on it.
 
 Can be used to make steel rods if synths are switched with steel importers.
 
