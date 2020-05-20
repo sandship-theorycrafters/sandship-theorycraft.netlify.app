@@ -1,7 +1,7 @@
 ---
 identifier: Recycling for Disposal – With Importer
 title: Recycling for Disposal
-subtitle: Ap0them
+subtitle: Patytsung
 size: 12x12
 input:
   - material: Any Importables
@@ -11,7 +11,7 @@ output:
     rate: Varies
     reliability: Stable
 authors:
-  - Ap0them
+  - Patytsung
 tags:
   - with-importer
   - credits
@@ -21,7 +21,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A recycling build. It may not be the most efficient in terms of money, but it’s good for dumping extra resources for a bit of cash. Uses importers, so be careful. Ap0them added one more recycler from Patytseng's design
+A recycling build. It may not be the most efficient in terms of money, but it’s good for dumping extra resources for a bit of cash. Uses importers, so be careful.
 
 **Size:**12x12
 
