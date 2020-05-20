@@ -44,11 +44,7 @@ title = "Builds"
   [[content.filter_button]]
     name = "Everstone"
     tag = "everstone"
-    
-  [[content.filter_button]]
-    name = "Chemicals"
-    tag = "chemicals"
-    
+
   [[content.filter_button]]
     name = "Credits"
     tag = "credits"
