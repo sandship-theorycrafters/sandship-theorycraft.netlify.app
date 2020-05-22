@@ -38,8 +38,8 @@ title = "Builds"
     tag = "steel"
 
   [[content.filter_button]]
-    name = "Silicon"
-    tag = "silicon"
+    name = "Glass"
+    tag = "glass"
 
   [[content.filter_button]]
     name = "Everstone"
@@ -48,6 +48,10 @@ title = "Builds"
   [[content.filter_button]]
     name = "Credits"
     tag = "credits"
+
+  [[content.filter_button]]
+    name = "Circuits"
+    tag = "circuits"
     
   [[content.filter_button]]
     name = "Mixed"
