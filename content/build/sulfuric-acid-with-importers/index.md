@@ -1,6 +1,6 @@
 ---
 identifier: Sulfuric Acid - With Speed
-title: Sulfuric Acid
+title: Sulfuric Acid With Fast Tech
 subtitle: patytseng
 size: 12x12
 input:
