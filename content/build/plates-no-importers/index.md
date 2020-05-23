@@ -24,7 +24,7 @@ tags:
   - glass plate
   - 12x12
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Plates No Importers
