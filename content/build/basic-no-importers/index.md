@@ -16,7 +16,7 @@ tags:
   - no-importers
   - iron
   - copper
-  - silicon
+  - glass
   - carbon
   - iron ore
   - copper ore
