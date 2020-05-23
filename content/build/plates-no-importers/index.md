@@ -1,7 +1,7 @@
 ---
 identifier: Plates – No Importers
 title: Plates No Importers
-subtitle: Ture
+subtitle: Patytseng
 size: 12x12
 input:
   - material: Substance
@@ -11,7 +11,7 @@ output:
     rate: "42.1"
     reliability: Moderate Instability
 authors:
-  - Ture
+  - Patytseng
 tags:
   - no-importers
   - iron
