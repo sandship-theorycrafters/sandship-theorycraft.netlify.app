@@ -15,7 +15,7 @@ authors:
 tags:
   - no importers
   - circuits
-  - circuits
+  - complex
   - 12x12
 image:
   filename: featured.jpg

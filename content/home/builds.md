@@ -50,8 +50,8 @@ title = "Builds"
     tag = "credits"
 
   [[content.filter_button]]
-    name = "Circuits"
-    tag = "circuits"
+    name = "Complex"
+    tag = "complex"
     
   [[content.filter_button]]
     name = "Mixed"
