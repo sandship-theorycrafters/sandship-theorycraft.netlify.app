@@ -5,10 +5,10 @@ subtitle: Ching
 size: 12x12
 input:
   - material: Substance
-    rate: "67.72"
+    rate: "68.6"
 output:
   - material: Rods
-    rate: "67.73"
+    rate: "68.6"
     reliability: Stable
 authors:
   - Ching
@@ -35,10 +35,10 @@ Can be used to make steel rods if synths are switched with steel importers.
 
 **Material:**Substance
 
-**Rate:**67.72
+**Rate:**69.6
 
 **Material:**Rods
 
-**Rate:**67.73
+**Rate:**68.6
 
 **Reliability:**Stable
