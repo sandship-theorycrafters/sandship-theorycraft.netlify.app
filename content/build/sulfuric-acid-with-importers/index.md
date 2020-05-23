@@ -1,5 +1,5 @@
 ---
-identifier: Sulfuric Acid - With Speed
+identifier: Sulfuric Acid - With Fast Tech
 title: Sulfuric Acid With Fast Tech
 subtitle: patytseng
 size: 12x12
