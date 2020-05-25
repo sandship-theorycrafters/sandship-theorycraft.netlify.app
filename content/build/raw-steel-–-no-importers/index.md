@@ -11,7 +11,7 @@ output:
     rate: "22.5"
     reliability: Moderately Stable
 authors:
-  - omfgcookies
+  - HealerOfSouls
 tags:
   - no importers
   - steel
