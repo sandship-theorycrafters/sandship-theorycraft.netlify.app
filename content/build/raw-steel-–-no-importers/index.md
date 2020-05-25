@@ -18,7 +18,7 @@ tags:
   - no-importers
   - 12x12
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
