@@ -28,10 +28,10 @@ This is a build for a microfactory to produce steel. The steel can only be proce
 
 **Material:**Substance
 
-**Rate:**67.57
+**Rate:70.56**
 
 **Material:**Steel
 
-**Rate:**22.5
+**Rate:**23.48
 
 **Reliability:**Moderately Stable
