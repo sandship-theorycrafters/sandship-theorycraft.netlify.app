@@ -1,7 +1,7 @@
 ---
 identifier: Raw Steel – No Importers
 title: Raw Steel No Importers
-subtitle: OmfgCookies
+subtitle: HealerOfSouls
 size: 12x12
 input:
   - material: Substance
