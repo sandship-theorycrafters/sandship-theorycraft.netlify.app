@@ -4,7 +4,7 @@ title: Glass Spheres No importers
 subtitle: Krigan
 size: 12x12
 image:
-  filename: featured
+  filename: featured-2.jpg
   focal_point: Smart
   preview_only: false
 ---
