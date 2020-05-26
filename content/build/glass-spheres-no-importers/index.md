@@ -3,6 +3,11 @@ identifier: Glass Spheres No Importers
 title: Glass Spheres No importers
 subtitle: Krigan
 size: 12x12
+tags:
+  - glass spheres
+  - silicon
+  - no importers
+  - self contained
 image:
   filename: featured-2.jpg
   focal_point: Smart
