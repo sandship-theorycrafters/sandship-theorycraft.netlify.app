@@ -1,7 +1,7 @@
 ---
 identifier: Underwell – Level 3
 title: Underwell Level 3
-subtitle: Ap0them
+subtitle: SharkyTheWhale
 size: Lvl 3
 input:
   - material: Substance
@@ -20,15 +20,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Uses 3 resonators, producing 1.5 everstone/second. This version used walls, I changed to extruders as it is much more stable in terms of producing 1.5 everstone per second. Design edited by Ap0them, from DA ENGIN33R's design.
+Uses 3 resonators, producing 1.5 everstone/second. The result of me messing with overloading a single turret with ammo, and then realizing I could ise that to make a cool build
 
-**Sharky The Whale’s wise words of wisdom: with the new update, walls should be better than extruders. I don’t know why apothem changed DA ENGIN33R’s build to extruders, but just use walls. For my sanity. I’d prefer more guns but... I’ll take what I can get**
+**Sharky The Whale’s wise words of wisdom: Random things I found out when making this build. 1. Having multiple lines of ammo feeding into one turret is really effective. 2. Resonators and guns block line of sight of weapons. Nothing else seems to (among the things you should put there. I’d didn’t test extruders)**
 
 **Size:**Lvl 3
 
 **Material:**Substance
 
-**Rate:**4.6
+**Rate:5.73**
 
 **Material:**Everstone
 
