@@ -1,0 +1,63 @@
+{{- define "main" -}}
+
+<article class="article article-project">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h3>Size</h3>
+                {{ .Params.size }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h3>Input</h3>
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Material</th>
+                            <th>Rate</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{ range .Params.input }}
+                            <tr class="w-100">
+                                <td class="w-50">{{ .material }}</td>
+                                <td class="w-25">{{ .rate }}</td>
+                            </tr>
+                        {{ end }}
+                    </tbody>
+                </table>
+            </div>
+            <div class="col">
+                <h3>Output</h3>
+                <table class="table">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Material</th>
+                            <th>Rate</th>
+                            <th>Reliability</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{ range .Params.output }}
+                            <tr class="w-100">
+                                <td class="w-50">{{ .material }}</td>
+                                <td class="w-25">{{ .rate }}</td>
+                                <td class="w-25">{{ .reliability | default " "}}</td>
+                            </tr>
+                        {{ end }}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</article>
+{{- end -}}
