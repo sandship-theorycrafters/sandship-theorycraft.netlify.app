@@ -4,11 +4,9 @@ headless: true
 active: true
 weight: 20
 title: About
-subtitle: Test 2
+subtitle: ""
 author: admin
 ---
-TEST
-
 The compendium is split into several different “sections” based on the base resource of each build. Recycler, Underwell and “everything” builds will get their own section. Each section will consist of the following:
 
 1. A general overview to the resource and its use
