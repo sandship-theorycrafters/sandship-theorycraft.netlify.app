@@ -3,6 +3,18 @@ identifier: Sulphuric Acid - no importers
 title: No importers
 subtitle: Kutti
 size: 12x12
+input:
+  - material: Substance
+    rate: "79.35"
+output:
+  - material: Sulphuric acid
+    rate: "0.57"
+    reliability: Stable
+authors:
+  - Kuutti
+tags:
+  - Acid
+  - no importers
 image:
   filename: featured-4.jpg
   focal_point: Smart
