@@ -24,7 +24,7 @@ tags:
   - carbon
   - 12x12
 image:
-  filename: featured.jpg
+  filename: featured-11.png
   focal_point: Smart
   preview_only: false
   caption: Basic Materials - No Imports - 12x12
