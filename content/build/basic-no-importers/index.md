@@ -11,7 +11,7 @@ output:
     rate: "89.03"
     reliability: Moderately Stable
 authors:
-  - Ture
+  - NDoped
 tags:
   - no-importers
   - iron
