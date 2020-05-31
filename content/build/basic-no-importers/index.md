@@ -1,7 +1,7 @@
 ---
 identifier: Raw Material – No Importers
 title: Raw Material
-subtitle: Ture
+subtitle: NDoped
 size: 12x12
 input:
   - material: Substance
