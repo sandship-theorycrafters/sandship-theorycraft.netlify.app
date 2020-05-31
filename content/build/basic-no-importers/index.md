@@ -35,10 +35,10 @@ This build works for any raw material, with the exception of steel (for obvious 
 
 **Material:**Substance
 
-**Rate:**87.93
+**Rate:126.47**
 
 **Material:**Basic
 
-**Rate:**87.93
+**Rate:126.47**
 
 **Reliability:**Moderate
