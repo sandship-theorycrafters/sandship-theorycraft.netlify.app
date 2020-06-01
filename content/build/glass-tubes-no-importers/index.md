@@ -12,6 +12,10 @@ output:
     reliability: Untested
 authors:
   - Patytseng
+tags:
+  - Glass tubes
+  - silicon
+  - no importers
 image:
   filename: featured-10.png
   focal_point: Smart
