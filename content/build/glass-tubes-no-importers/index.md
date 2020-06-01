@@ -5,7 +5,13 @@ subtitle: Patytseng
 size: 12x12
 input:
   - material: Substance
+    rate: "108.31"
+output:
+  - material: Glass tubes
     rate: "36.1"
+    reliability: Untested
+authors:
+  - Patytseng
 image:
   filename: featured-10.png
   focal_point: Smart
