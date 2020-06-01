@@ -1,6 +1,6 @@
 ---
 identifier: Sulphuric Acid - no importers
-title: No importers
+title: Sulphuric Acid No importers
 subtitle: Kutti
 size: 12x12
 input:
