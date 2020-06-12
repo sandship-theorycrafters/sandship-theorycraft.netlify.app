@@ -27,7 +27,7 @@ A recycling build. It may not be the most efficient in terms of money/substance,
 
 **Material:**Any Importables
 
-**Rate:**55
+**Rate:60.8**
 
 **Material:**Credits
 
