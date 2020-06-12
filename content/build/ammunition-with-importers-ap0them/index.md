@@ -12,6 +12,10 @@ output:
     reliability: Stable
 authors:
   - Ap0them
+tags:
+  - With-importers
+  - ammunition
+  - fast tech
 image:
   filename: featured-3.jpg
   focal_point: Smart
